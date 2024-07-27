@@ -1,4 +1,4 @@
-# 为什么 Nólëbase 从 Creative Commons 协议的 BY-NC-SA 切换到了 BY-SA？
+# 为什么 xialioNote 从 Creative Commons 协议的 BY-NC-SA 切换到了 BY-SA？
 
 ## 一直以来我们都在用 CC BY-NC-SA 协议
 
